@@ -18,6 +18,12 @@ Utilizing the cutting-edge Llama-Index, our platform provides a robust and dynam
 - Llama-index
 - TogetherAI
 
+# Contributors
+[@DanielDaCosta](https://github.com/DanielDaCosta)
+[@ianwu13](https://github.com/ianwu13)
+[@sauravjoshi23](https://github.com/sauravjoshi23)
+
+
 # Reference
 - https://gpt-index.readthedocs.io/en/latest/examples/query_engine/recursive_retriever_agents.html
 - https://llamahub.ai/l/wikipedia
